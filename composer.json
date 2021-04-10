@@ -1,5 +1,5 @@
 {
-    "name": "elasticsearch/base",
+    "name": "phpelasticsearch/base",
     "description": "PHP-elasticaserch-base",
     "require": {}
 }
