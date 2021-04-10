@@ -1,5 +1,11 @@
 {
     "name": "phpelasticsearch/base",
     "description": "PHP-elasticaserch-base",
+    "authors": [
+        {
+            "name": "陈鹏",
+            "email": "476451758@qq.com"
+        }
+    ],
     "require": {}
 }
